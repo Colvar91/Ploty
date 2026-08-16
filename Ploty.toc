@@ -1,0 +1,15 @@
+## Interface: 90207
+## Title: Ploty
+## Notes: Gemeinsames RP-Werkzeug mit automatischer Plotleiter- und Teilnehmeransicht.
+## Author: Colvar
+## Version: 0.26.9
+## SavedVariables: PlotyDB
+
+Util.lua
+Core.lua
+Enhancements.lua
+Groups.lua
+GermanDictionary.lua
+WritingCheck.lua
+UI.lua
+Minimap.lua
