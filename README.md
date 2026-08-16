@@ -1,7 +1,7 @@
 # Ploty
 
 [![Downloads](https://img.shields.io/github/downloads/Colvar91/Ploty/total?style=for-the-badge&label=Downloads)](https://github.com/Colvar91/Ploty/releases)
-[![Latest Release](https://img.shields.io/github/v/release/Colvar91/Ploty?style=for-the-badge&label=Version)](https://github.com/Colvar91/Ploty/releases/latest)
+[![Release](https://img.shields.io/github/v/release/Colvar91/Ploty?style=for-the-badge&label=Version)](https://github.com/Colvar91/Ploty/releases/latest)
 
 **Ploty** ist ein World-of-Warcraft-Addon für Version **9.2.7**, das Rollenspiel unterstützt, ohne das eigentliche RP oder dessen Regeln automatisch zu bestimmen.
 
